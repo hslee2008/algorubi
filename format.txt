@@ -1,0 +1,9 @@
+"R U R' U R U2 R'",
+"y' R' U2 R U R' U R",
+"y L' U2 L U L' U L",
+"R U' L' U R' U' L",
+"y2 L U L' U L U2 L'",
+"y2 L U' R' U L' U' R",
+"U L' U2 L U L' U L",
+"L' U2 L U2 l F' L' F M'",
+"M F R' F' r U2 R U2 R'
